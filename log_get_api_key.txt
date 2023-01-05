@@ -1,0 +1,169 @@
+Name Func: get_api_key
+Headers of query: {'email': 'rom23@bk.ru', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:16:19 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'rom23@bk.ru', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:16:19 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:16:19 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:16:20 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}Name Func: get_api_key
+Headers of query: {'email': 'rom23@bk.ru', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:17:27 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'rom23@bk.ru', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:17:27 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:17:27 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:17:28 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}Name Func: get_api_key
+Headers of query: {'email': 'rom23@bk.ru', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:22:14 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'rom23@bk.ru', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '151', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Thu, 05 Jan 2023 10:22:14 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': 'qwerty'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 403
+Response body:
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>403 Forbidden</title>\n<h1>Forbidden</h1>\n<p>This user wasn&#x27;t found in database</p>\n"Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:22:14 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}Name Func: get_api_key
+Headers of query: {'email': 'raycom4@1secmail.com', 'password': '123456'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: None
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '67', 'Content-Type': 'application/json', 'Date': 'Thu, 05 Jan 2023 10:22:14 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'email': 'raycom4@1secmail.com', 'password': '123456'}
+URL: https://petfriends.skillfactory.ru/api/key
+Path URL: /api/key
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "key": "1710163e62d3711d764cd300bbd2bbb681ce1be690c7cbb26df95d0d"
+}
